@@ -3,7 +3,7 @@ from gui.game_window import GameWindow
 
 def main():
     root = Tk()
-    root.title("Memory Card Matching Game")
+    root.title("Welcome Memory Card Matching Game")
     game_window = GameWindow(root)
     root.mainloop()
 
